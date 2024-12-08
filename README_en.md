@@ -2,9 +2,9 @@
 
 [English](https://github.com/TooonyChen/AuthInbox/blob/main/README.md) | [简体中文](https://github.com/TooonyChen/AuthInbox/blob/main/README_CN.md)
 
-**Auth Inbox** is an open-source project that securely receive and views authentication emails using [Cloudflare](https://cloudflare.com/)'s free serverless services. It automatically processes incoming emails, extracts verification codes or links, and stores them in a database. A user-friendly web interface is provided for administrators to easily review the extracted information. AuthInbox also supports real-time notifications via Bark, making it a comprehensive and hassle-free solution for email authentication management.
+**Auth Inbox** is an open-source project that securely receive 和 views authentication emails using [Cloudflare](https://cloudflare.com/)'s free serverless services. It automatically processes incoming emails, extracts verification codes or links, 和 stores them in a database. A user-friendly web interface is provided for administrators to easily review the extracted information. AuthInbox also supports real-time notifications via Bark, making it a comprehensive and hassle-free solution for email authentication management.
 
-Don't wanna receive ads and spams on your main email? Want a bunch of alternative email for register services and websites? Try this **secure**, **serverless**, **light** service!
+Don't wanna receive ads 和 spams on your main email? Want a bunch of alternative email for register services 和 websites? Try this **secure**, **serverless**, **light** service!
 
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/TooonyChen/AuthInbox)
